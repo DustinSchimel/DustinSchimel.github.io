@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Welcome to Pudhina"
-subtitle: "A minimal Jekyll theme"
-date:   2016-05-20 21:21:21 +0530
+title:  "Minor Scale"
+subtitle: "My first published Steam game"
+date:   2023-04-26 0:0:0
 categories: ["complete"]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
