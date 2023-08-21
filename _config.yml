@@ -1,16 +1,16 @@
 # Site settings
 title: Dustin Schimel
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  Resume and portfolio
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://dustinschimel.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Dustin Schimel
+  github: https://github.com/DustinSchimel
+  linkedin: https://www.linkedin.com/in/dustin-schimel/
+  email: dustin.schimel@gmail.com
 
 
 # Syntax highlighting
