@@ -6,8 +6,8 @@ title: Resume
 <span style="float: right; "><a href="{{ '/assets/DMS_Resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### SUMMARY
+``` Highly motivated software engineer and game developer looking to apply my knowledge of object-oriented languages and back-end systems towards real world experience. Strong communication skills with the ability to work across interdisciplinary teams to meet project goals and objectives.  ```  
 
 ### PROJECTS
 **Minor Scale** - Rhythmic tower defense game <span style="float: right; ">2023</span>  
@@ -56,12 +56,9 @@ Manned the store and register by myself while helping customers find products an
 Inbound Warehouse Fulfillment - **Backcountry** <span style="float: right; ">May 2019 - Aug 2019</span>  
 I helped put away inventory within the warehouse and was constantly on my feet and on the move. I worked with a team of people and constantly had to try new roles and learn new things while working here.
 
+### REFERENCES
+Ammon Mora / / Door Works USA; Operations Manager
++1 (480) 275-0972 - amora@doorworksusa.com
 
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+M.Brandon Riley / / Coign Capital Advisors; CFP - CRPC
++1 (801) 676-4560 - mbriley@coigncapital.com
