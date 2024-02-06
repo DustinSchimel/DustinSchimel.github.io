@@ -8,6 +8,6 @@ Raptor Randomizer is a Java Applet that randomizes League of Legends champions, 
 
 <center> <iframe width="511" height="315" src="https://www.youtube.com/embed/MLMRyT-8hxw?si=sm9AwkH32ncWjm_V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
 
-Due to this being one of my first projects, there is a lot of redundant code and things I would change. Despite that though, there is some cool things going on here. In League of Legends certain items cannot be used with certain items, certain runes cannot be used with other runes, and other things like that. Because of this, there are many conditional statements that make sure only usable builds, runes, and summoner spell combos are provided to the user. 
+Due to this being one of my first projects, there is a lot of redundant code and things I would change. Despite that though, there are some cool things going on here. In League of Legends certain items cannot be used with certain items, certain runes cannot be used with other runes, and other things like that. Because of this, there are many conditional statements that make sure only usable builds, runes, and summoner spell combos are provided to the user. This was also one of my first uses of a MVC structure and exploration of the uses of inheritance.
 
 [raptor-git]: https://github.com/DustinSchimel/Raptor-Randomizer
