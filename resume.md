@@ -11,10 +11,10 @@ title: Resume
 
 ### PROJECTS
 **Minor Scale** - Rhythmic tower defense game <span style="float: right; ">2023</span>  
-Conduct your buggy band in this rhythm-based tower defense game. During the whole span of the project I was the lead engineer on enemy systems, such as enemy types and wave funcionality. I worked on most of the UI systems and added accesibility features such as rebindable controls.
+Conduct your buggy band in this rhythm-based tower defense game. I was the lead engineer on enemy systems, such as enemy types and wave functionality. I worked on most of the UI systems and added accessibility features such as rebindable controls.
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**You're Not Alone** - 2D platformer game <span style="float: right; ">2022</span>  
+A short narrative platformer detailing the life of a young tormented boy and his slow acceptance of his issues and courage to reach out for help. I was the lead engineer for player movement, dialogue systems, and misc. features such as checkpoints and controller support.
 
 **Dream Planet** - 3D platformer game <span style="float: right; ">2021</span>  
 Play on a magical dream-like planet exploring far away lands and interacting with some interesting creatures! I was the lead engineer for player movement, collectibles, and dialogue systems. I was also the one who handled our version control issues for the team.
