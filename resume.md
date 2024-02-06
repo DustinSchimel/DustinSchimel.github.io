@@ -21,27 +21,36 @@ Play on a magical dream-like planet exploring far away lands and interacting wit
 
 ### EDUCATION
 
-University of Utah <span style="float: right; ">2018 - 2024</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+**University of Utah** <span style="float: right; ">2018 - 2024</span>  
+Computer Science; Entertainment Arts & Engineering
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+### RELEVANT COURSES TAKEN
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+**Computer Science** 
+- Object Oriented Programming
+- Software Practice 1-2
+- Algorithms
+- Database Systems
+- Computer Systems
+- Computer Graphics
+- AI
+
+**EAE (Games)**
+- Asset Pipeline
+- Traditional Game Development
+
+**Math / Science**
+- Linear Algebra
+- Physics for Engineers
 
 ### WORK EXPERIENCE
 
 Supervisor - **Immersive Gamebox** <span style="float: right; ">Jul 2023 - Present</span>  
 
- 
-Door Detailer - **Door Works** <span style="float: right; ">May 2021 - Jul 2021</span>  
+Door Detailer - **Door Works** <span style="float: right; ">Jun 2022 - Aug 2022</span>  
 Cleaned up and fixed all issues with newly made doors leaving the shop. One of the last people to see them and inspect them thoroughly before heading to the customer. 
 
-Cashier - **Beehive State Souvenirs** <span style="float: right; ">Duration</span>  
+Cashier - **Beehive State Souvenirs** <span style="float: right; ">May 2021 - Jul 2021</span>  
 Manned the store and register by myself while helping customers find products and give recommendations. Constantly on my feet and interacting with customers.
 
 Inbound Warehouse Fulfillment - **Backcountry** <span style="float: right; ">May 2019 - Aug 2019</span>  
