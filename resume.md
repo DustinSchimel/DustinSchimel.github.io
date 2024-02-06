@@ -1,24 +1,23 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: Resume
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/DMS_Resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 ### SKILLS
 ``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
 
 ### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Minor Scale** - Rhythmic tower defense game <span style="float: right; ">2023</span>  
+Conduct your buggy band in this rhythm-based tower defense game. During the whole span of the project I was the lead engineer on enemy systems, such as enemy types and wave funcionality. I worked on most of the UI systems and added accesibility features such as rebindable controls.
 
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Dream Planet** - 3D platformer game <span style="float: right; ">2021</span>  
+Play on a magical dream-like planet exploring far away lands and interacting with some interesting creatures! I was the lead engineer for player movement, collectibles, and dialogue systems. I was also the one who handled our version control issues for the team.
 
 ### EDUCATION
 
