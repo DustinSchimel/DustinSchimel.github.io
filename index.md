@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: About Me
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/AboutMePhoto.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability. This is located in index.md</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>College student looking for summer internship opportunities to help me grow and develop my skills. Looking to gain industry experience and make some new connections. I'm a hard worker and fast learner that could adapt to anything thrown my way. I'm sure I'd make a valuable asset to your team.</p>
 </div>
