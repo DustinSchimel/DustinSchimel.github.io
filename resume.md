@@ -58,7 +58,7 @@ I helped put away inventory within the warehouse and was constantly on my feet a
 
 ### REFERENCES
 Ammon Mora / / Door Works USA; Operations Manager
-+1 (480) 275-0972 - amora@doorworksusa.com
+- +1 (480) 275-0972 - amora@doorworksusa.com
 
 M.Brandon Riley / / Coign Capital Advisors; CFP - CRPC
-+1 (801) 676-4560 - mbriley@coigncapital.com
+- +1 (801) 676-4560 - mbriley@coigncapital.com
