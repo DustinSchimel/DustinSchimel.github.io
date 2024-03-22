@@ -16,7 +16,7 @@ Download the zip on [GitHub][swordfall-git] or [Itch][swordfall-itch]. Once the 
 
 **Instructions** 
 
-Use the left and right arrow keys to move horizontally, and press the down key to swing your sword. Time your swings right to bounce on spikes and hit enemies and projectiles!
+Use the left and right arrow keys to move horizontally, and press the down key to swing your sword.
 
 **Team** 
 - Xavier Davis - Engineer

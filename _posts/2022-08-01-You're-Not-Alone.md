@@ -4,22 +4,26 @@ title:  "You're Not Alone"
 date:   2022-08-01 0:0:0
 categories: ["complete"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+You're Not Alone is a game about the internal struggles people have in their daily lives and the constant struggle of coming to terms with them. You're Not Alone follows a young child whose life and personal flaws deters them from being happy. Through conversations with those around him does he know that he truly isn't alone.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/s7HZhZlG4oY?si=9kk4gN2b3550Hj-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-Jekyll also offers powerful support for code snippets:
+This game was developed by a group of 5 students over a span of 12 weeks for class. Developed with the intent to have alternative value besides just being a fun game to play. This was my first time developing a 2D game and my main focuses were on player movement, checkpoints, controller support, audio, dialogue, menus, and WebGL support. I gained a lot of experience by working on this project and I'm very happy with how it turned out.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+**Disclaimer**
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+You're Not Alone tackles one of many different backgrounds that any person may go through in their lives. Those who suffer from anxiety, depression, worries, or woes. Please know that you are valued and sometimes reaching out to a close one will help.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+**Installation** 
+
+You can play the WebGL version on the [Itch][yourenotalone-itch] or you can download it on [GitHub][yourenotalone-git]. Once the zip is extracted, launch the You're Not Alone.exe to start the game.
+
+**Team** 
+- Eric Romero - Artist
+- Erickson Nguyen - Artist
+- Dustin Schimel - Engineer
+- Dylan Russel - Engineer
+- Cameron Lentz - Musician
+
+[yourenotalone-git]: https://github.com/DustinSchimel/Youre_Not_Alone
+[yourenotalone-itch]: https://dustinschimel.itch.io/youre-not-alone
