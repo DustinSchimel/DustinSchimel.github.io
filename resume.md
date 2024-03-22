@@ -9,16 +9,6 @@ title: Resume
 ### SUMMARY
 ``` Highly motivated software engineer and game developer looking to apply my knowledge of object-oriented languages and back-end systems towards real world experience. Strong communication skills with the ability to work across interdisciplinary teams to meet project goals and objectives.  ```  
 
-### PROJECTS
-**Minor Scale** - Rhythmic tower defense game <span style="float: right; ">2023</span>  
-Conduct your buggy band in this rhythm-based tower defense game. I was the lead engineer on enemy systems, such as enemy types and wave functionality. I worked on most of the UI systems and added accessibility features such as rebindable controls.
-
-**You're Not Alone** - 2D platformer game <span style="float: right; ">2022</span>  
-A short narrative platformer detailing the life of a young tormented boy and his slow acceptance of his issues and courage to reach out for help. I was the lead engineer for player movement, dialogue systems, and misc. features such as checkpoints and controller support.
-
-**Dream Planet** - 3D platformer game <span style="float: right; ">2021</span>  
-Play on a magical dream-like planet exploring far away lands and interacting with some interesting creatures! I was the lead engineer for player movement, collectibles, and dialogue systems. I was also the one who handled our version control issues for the team.
-
 ### EDUCATION
 
 **University of Utah** <span style="float: right; ">2018 - 2024</span>  
