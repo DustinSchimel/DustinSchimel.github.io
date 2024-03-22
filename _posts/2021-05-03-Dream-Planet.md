@@ -8,7 +8,7 @@ Play on a magical dream-like planet exploring far away lands and interacting wit
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/RTaO13VMaoA?si=zhh7emBYgGHqwIXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-Dream Planet was developed by a team of six for a semester long class at our school. It was made with the intention of teaching us about Unity and game development. It was many of ours first game and we are proud of how it turned out. My roll within the team was as the head engineer for player movement, collectibles, and dialogue systems within the game. I also fixed many of our version control issues (this fueled my future love for Perforce) and prevented countless hours of our team redoing things.
+Dream Planet was developed by a team of six for a semester-long class at our school. It was made with the intention of teaching us about Unity and game development. It was our first game and we are proud of how it turned out. My role within the team was as the head engineer for player movement, collectibles, and dialogue systems within the game. I also fixed many of our version control issues (this fueled my future love for Perforce) and prevented countless hours of our team redoing things.
 
 **Installation** 
 
