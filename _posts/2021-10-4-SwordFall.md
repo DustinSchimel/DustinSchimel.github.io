@@ -4,22 +4,19 @@ title:  "SwordFall"
 date:   2021-10-4 0:0:0
 categories: ["complete"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Fall endlessly and use your sword to avoid taking damage!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Use the left and right arrow keys to move horizontally, and press the down key to swing your sword. Time your swings right to bounce on spikes and hit enemies and projectiles!
 
-Jekyll also offers powerful support for code snippets:
+**Installation** 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Download the zip on [GitHub][swordfall-git] or [Itch][swordfall-itch]. Once the zip is extracted, launch the SwordFall.exe to start the game.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+**Team** 
+- Xavier Davis - Engineer
+- Dustin Schimel - Engineer
+- Arkein Singh - UI
+- Elaine Tanaka - Art
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[swordfall-git]: https://github.com/DustinSchimel/SwordFall
+[swordfall-itch]: https://the-three-vs.itch.io/swordfall
