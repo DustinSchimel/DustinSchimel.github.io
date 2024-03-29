@@ -36,6 +36,7 @@ Computer Science; Entertainment Arts & Engineering
 ### WORK EXPERIENCE
 
 Supervisor - **Immersive Gamebox** <span style="float: right; ">Jul 2023 - Present</span>  
+I help customers play our games and maintain the establishment while mostly working by myself.
 
 Door Detailer - **Door Works** <span style="float: right; ">Jun 2022 - Aug 2022</span>  
 Cleaned up and fixed all issues with newly made doors leaving the shop. One of the last people to see them and inspect them thoroughly before heading to the customer. 
