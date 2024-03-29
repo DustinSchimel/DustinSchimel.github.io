@@ -8,11 +8,11 @@ SummerProject was my first attempt at making a multiplayer game in Unity. The go
 
 Here's a video showcasing the work I did on the controller supported menus.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/YNu3R7vVff8?si=IsWb4FYJB4kEgYws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YNu3R7vVff8?si=r4Wvz4Awg7ROA96Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 Here's a video showcasing the early gameplay and multiplayer functionality.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/h7165bgv6Mk?si=snSHESnznZ_TUeXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h7165bgv6Mk?si=2tvy6EWVEgTKLLoN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 **Installation** 
 
