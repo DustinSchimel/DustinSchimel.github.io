@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Omok Deluxe"
-date:   2023-01-7 0:0:0
+date:   2023-06-23 0:0:0
 categories: ["incomplete"]
 ---
 Omok Deluxe was another attempt at making a multiplayer game in Unity. The goal was to recreate Omok as it is in [Maplestory][maple] but in a classic setting (~2004). Progress was going well until I began to realize I might not be able to publish this game due to using Nexon's IP and assets even if I was not making money from it. So I decided to scrap the project early into development before multiplayer functionality got fully developed.
