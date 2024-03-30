@@ -6,7 +6,7 @@ categories: ["complete"]
 ---
 Minor Scale was my very first large-scale team game that took place over the course of 2 semesters. It’s a simple rhythm game combined with tower defense features and a cute 2D/3D hybrid aesthetic.
 
-<center><iframe width="644" height="362" src="https://www.youtube-nocookie.com/embed/gT3EOulVUow?si=XvPZxlDXvWLT-nsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<center><iframe width="642" height="362" src="https://www.youtube-nocookie.com/embed/gT3EOulVUow?si=XvPZxlDXvWLT-nsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 This was my first time using Unreal Engine and Perforce. My main tasks during the project were related to enemy types, enemy waves, rebindable controls and UI.
 
@@ -26,7 +26,7 @@ This was something we actually didn't plan on adding to the game, but I had an o
 ### UI
 I created our main menu, pause menus, and the in-game UI. I tried to make them as fluid and polished as possible. The in-game 3D UI updates dynamically depending on what the incoming wave is, how much money the player has, and how many lives they have left. The first video above shows the 3D UI inside the level, while the video below shows the main menu and rebindable controls.
 
-<center><iframe width="644" height="362" src="https://www.youtube-nocookie.com/embed/SOFNBFVjhWE?si=rQBwblIpLVV-NTpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<center><iframe width="642" height="362" src="https://www.youtube-nocookie.com/embed/SOFNBFVjhWE?si=rQBwblIpLVV-NTpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 **Installation** 
 
