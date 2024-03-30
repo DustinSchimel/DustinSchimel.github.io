@@ -26,7 +26,7 @@ This was something we actually didn't plan on adding to the game, but I had an o
 ### UI
 I created our main menu, pause menus, and the in-game UI. I tried to make them as fluid and polished as possible. The in-game 3D UI updates dynamically depending on what the incoming wave is, how much money the player has, and how many lives they have left. The first video above shows the 3D UI inside the level, while the video below shows the main menu and rebindable controls.
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SOFNBFVjhWE?si=rQBwblIpLVV-NTpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<center><iframe width="644" height="362" src="https://www.youtube-nocookie.com/embed/SOFNBFVjhWE?si=rQBwblIpLVV-NTpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 **Installation** 
 
