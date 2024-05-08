@@ -7,12 +7,13 @@ title: Resume
 <br>
 
 ### SUMMARY
-``` Highly motivated software engineer and game developer looking to apply my knowledge of object-oriented languages and back-end systems towards real world experience. Strong communication skills with the ability to work across interdisciplinary teams to meet project goals and objectives.  ```  
+``` I am a recent college graduate with strong software engineering and game development experience. Through my academic coursework and personal projects, I have gained significant knowledge of object-oriented languages and back-end systems. I am eager to apply my skills and gain real-world experience by working collaboratively with interdisciplinary teams to meet project goals and objectives.  ```  
 
 ### EDUCATION
 
-**University of Utah** <span style="float: right; ">2018 - 2024</span>  
-Computer Science; Entertainment Arts & Engineering
+**University of Utah** <span style="float: right; ">2024</span> 
+
+Bachelor of Science in Computer Science, with an emphasis in Game Development
  
 ### RELEVANT COURSES TAKEN
 
@@ -46,10 +47,3 @@ Manned the store and register by myself while helping customers find products an
 
 Inbound Warehouse Fulfillment - **Backcountry** <span style="float: right; ">May 2019 - Aug 2019</span>  
 I helped put away inventory within the warehouse and was constantly on my feet and on the move. I worked with a team of people and constantly had to try new roles and learn new things while working here.
-
-### REFERENCES
-Ammon Mora / / Door Works USA; Operations Manager
-- +1 (480) 275-0972 - amora@doorworksusa.com
-
-M.Brandon Riley / / Coign Capital Advisors; CFP - CRPC
-- +1 (801) 676-4560 - mbriley@coigncapital.com
