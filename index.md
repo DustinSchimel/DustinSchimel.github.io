@@ -8,5 +8,5 @@ sitemap:
 <img src="{{ '/assets/img/AboutMePhoto.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>College student looking for internship and job opportunities to help me grow and develop my skills. Looking to gain industry experience and make some new connections. I'm a hard worker and fast learner that could adapt to anything thrown my way. I'm sure I'd make a valuable asset to your team.</p>
+	<p>I am a recent college graduate with strong software engineering and game development experience. Through my academic coursework and personal projects, I have gained significant knowledge of object-oriented languages and back-end systems. I am eager to apply my skills and gain real-world experience by working collaboratively with interdisciplinary teams to meet project goals and objectives.</p>
 </div>
