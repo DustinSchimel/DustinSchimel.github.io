@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "You're Not Alone"
-date:   2022-08-01 0:0:0
+date:   2022-05-29 0:0:0
 categories: ["complete"]
 ---
 You're Not Alone is a game about the internal struggles people have in their daily lives and the constant struggle of coming to terms with them. You're Not Alone follows a young child whose life and personal flaws deters them from being happy. Through conversations with those around him does he know that he truly isn't alone.
