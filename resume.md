@@ -41,14 +41,14 @@ Bachelor of Science in Computer Science
 - Computer Graphics
 - AI
 
+**Math / Science**
+- Linear Algebra
+- Physics for Engineers
+
 **Games**
 - Asset Pipeline
 - Traditional Game Development
 - Capstone Project (1 year)
-
-**Math / Science**
-- Linear Algebra
-- Physics for Engineers
 
 ### WORK EXPERIENCE
 
