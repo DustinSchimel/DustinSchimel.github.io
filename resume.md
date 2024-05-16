@@ -13,7 +13,22 @@ title: Resume
 
 **University of Utah** <span style="float: right; ">2024</span> 
 
-Bachelor of Science in Computer Science, with an emphasis in Game Development
+Bachelor of Science in Computer Science
+
+### SKILLS
+
+**Programming Languages**
+- C#
+- Java
+- Python
+- C++
+
+**Technologies**
+- Unity
+- Unreal
+- GitHub
+- Perforce
+- MySQL
  
 ### RELEVANT COURSES TAKEN
 
@@ -38,13 +53,22 @@ Bachelor of Science in Computer Science, with an emphasis in Game Development
 ### WORK EXPERIENCE
 
 Supervisor - **Immersive Gamebox** <span style="float: right; ">Jul 2023 - Present</span>  
-I manage all games being played within our location and help customers have the best experience possible. I help customers through the whole process, starting with instructing them how to play our games, and ending with asking them about their experience and gathering feedback. I <b>communicate</b> with our content development teams frequently to ensure that all bugs and feedback from the players is heard. My <b>time management</b> skills are constantly tested to ensure that games end on time, customers aren't kept waiting, and that every task gets completed before closing.
+- Oversee user experience from initial contact to fulfillment.
+- Provide data analytics to make recommendations for improvements on process and experience.
+- QA testing and development with Dev team to ensure the highest level of customer experience.
 
 Detailer - **Door Works** <span style="float: right; ">Jun 2022 - Aug 2022</span>  
-Worked in a pipeline for door manufacturing as the last person to see the product and fix any defects before reaching the customer. Excellent <b>problem solving</b> was a must in order to prevent major setbacks in the production and schedule, along with good <b>accountability</b> in order to ensure that if a mistake did occur, I could learn from it and prevent it in the future.
+- QA for all products internally produced.
+- Efficient workflow process to help streamline production and finalize products.
+- Developed a variety of skills to fix problems along the production line.
 
 Cashier - **Beehive State Souvenirs** <span style="float: right; ">May 2021 - Jul 2021</span>  
-Worked independently at all times and maintained the store while providing a good customer experience. My <b>communication</b> skills were always tested during this position along with my <b>attention to detail</b> in maintaining the store's image to the customers.
+- Managed all day-to-day interactions with customers.
+- Inventory control of all products in store.
+- Operated fully integrated POS.
+- Various opening and closing details including, but not limited to accounting, sales, inventory, and security.
 
 Inbound Warehouse Fulfillment - **Backcountry** <span style="float: right; ">May 2019 - Aug 2019</span>  
-Worked on a team to quickly and efficiently organize inbound inventory in the warehouse from our suppliers. Good <b>teamwork</b> was a necessity to get the jobs done on time, along with <b>adaptability</b> in order to constantly take on new roles provided to me during my time here.
+- Inbound Inventory control.
+- Catalogued and organized product from over 200+ suppliers across multiple product categories.
+- Worked efficiently and effectively to support intake of over 1,000 packages daily.
