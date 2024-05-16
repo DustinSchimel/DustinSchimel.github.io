@@ -41,7 +41,7 @@ Bachelor of Science in Computer Science
 - Computer Graphics
 - AI
 
-**EAE (Games)**
+**Games**
 - Asset Pipeline
 - Traditional Game Development
 - Capstone Project (1 year)
