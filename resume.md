@@ -43,13 +43,15 @@ Bachelor of Science in Computer Science
 - Physics for Engineers
 
 **Games**
+- VR
 - Asset Pipeline
 - Traditional Game Development
 - Capstone Project (1 year)
 
 ### WORK EXPERIENCE
 
-Supervisor - **Immersive Gamebox** <span style="float: right; ">Jul 2023 - Present</span>  
+Supervisor - **Immersive Gamebox** <span style="float: right; ">Jul 2023 - Present</span>
+- Help run educational programs that teach kids STEM concepts using VR-based technology.
 - Oversee user experience from initial contact to fulfillment.
 - Provide data analytics to make recommendations for improvements on process and experience.
 - QA testing and development with Dev team to ensure the highest level of customer experience.
