@@ -12,7 +12,11 @@ Dream Planet was developed by a team of six for a semester-long class at our sch
 
 **Installation** 
 
-Download the zip on our [Itch][dreamplanet-itch] or [GitHub][dreamplanet-git]. Once the zip is extracted, launch the Dream Planet.exe to start the game.
+Once the zip is extracted, launch the Dream Planet.exe to start the game.
+
+You can play the game right below this text or on our [Itch][dreamplanet-itch] page. If you play on this website, please be aware that the screen size is smaller than intended, so things may look a little off (there is a fullscreen button in the bottom right to help too). If the game is laggy, make sure to enable hardware acceleration in your browser settings. The downloadable version is the preferred version to play on, but the web version is completely serviceable on it's own.
+
+<center><iframe frameborder="0" src="https://itch.io/embed-upload/11022733?color=c2dcfe" allowfullscreen="" width="790" height="550"><a href="https://hunt7721.itch.io/dream-planet">Play Dream Planet on itch.io</a></iframe></center>
 
 **Team** 
 - Sam Hunt - Producer
