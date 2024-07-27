@@ -8,15 +8,19 @@ You're Not Alone is a game about the internal struggles people have in their dai
 
 <center><iframe width="642" height="362" src="https://www.youtube-nocookie.com/embed/s7HZhZlG4oY?si=sRawdrvyLiOKxSuL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-This game was developed by a group of 5 students over a span of 12 weeks for class. Developed with the intent to have alternative value besides just being a fun game to play. This was my first time developing a 2D game and my main focuses were on player movement, checkpoints, controller support, audio, dialogue, menus, and WebGL support. I gained a lot of experience by working on this project and I'm very happy with how it turned out.
+This game was developed by a group of five students over a span of twelve weeks for class. It was developed with the intent of having value beyond just being a fun game to play. This was my first time developing a 2D game, and my main focuses were on player movement, checkpoints, controller support, audio, dialogue, menus, and WebGL support. I gained a lot of experience working on this project and am very happy with how it turned out.
 
 **Disclaimer**
 
-You're Not Alone tackles one of many different backgrounds that any person may go through in their lives. Those who suffer from anxiety, depression, worries, or woes. Please know that you are valued and sometimes reaching out to a close one will help.
+You’re Not Alone tackles one of many different backgrounds that people may experience in their lives, including anxiety, depression, worries, and woes. Please know that you are valued, and sometimes reaching out to a loved one can help.
 
 **Installation** 
 
-You can play the WebGL version on the [Itch][yourenotalone-itch] or you can download it on [GitHub][yourenotalone-git]. Once the zip is extracted, launch the You're Not Alone.exe to start the game.
+You can play the game right below this text or on our [Itch][itchlink] page. Once it's loaded, just hit the <b>Play</b> button to start the game. If the game is laggy, make sure to enable hardware acceleration in your browser settings.
+
+<center><iframe frameborder="0" src="https://itch.io/embed-upload/7078899?color=535353" allowfullscreen="" width="970" height="680"><a href="https://dustinschimel.itch.io/youre-not-alone">Play You're Not Alone on itch.io</a></iframe></center>
+
+<center><iframe frameborder="0" src="https://itch.io/embed/1645602?bg_color=e3e3e3&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=757575" width="552" height="167"><a href="https://dustinschimel.itch.io/youre-not-alone">You're Not Alone by Dustin Schimel</a></iframe></center>
 
 **Team** 
 - Eric Romero - Artist
