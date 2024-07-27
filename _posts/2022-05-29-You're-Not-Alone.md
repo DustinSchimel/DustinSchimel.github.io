@@ -16,9 +16,11 @@ You’re Not Alone tackles one of many different backgrounds that people may exp
 
 **Installation** 
 
-You can play the game right below this text or on our [Itch][itchlink] page. Once it's loaded, just hit the <b>Play</b> button to start the game. If the game is laggy, make sure to enable hardware acceleration in your browser settings.
+You can play the game right below this text or on our [Itch][yourenotalone-itch] page. Once it's loaded, just hit the <b>Play</b> button to start the game. If the game is laggy, make sure to enable hardware acceleration in your browser settings.
 
 <center><iframe frameborder="0" src="https://itch.io/embed-upload/7078899?color=535353" allowfullscreen="" width="970" height="680"><a href="https://dustinschimel.itch.io/youre-not-alone">Play You're Not Alone on itch.io</a></iframe></center>
+
+<div style="height:10px;font-size:1px;">&nbsp;</div>
 
 <center><iframe frameborder="0" src="https://itch.io/embed/1645602?bg_color=e3e3e3&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=757575" width="552" height="167"><a href="https://dustinschimel.itch.io/youre-not-alone">You're Not Alone by Dustin Schimel</a></iframe></center>
 
@@ -29,5 +31,4 @@ You can play the game right below this text or on our [Itch][itchlink] page. Onc
 - Dylan Russel - Engineer
 - Cameron Lentz - Musician
 
-[yourenotalone-git]: https://github.com/DustinSchimel/Youre_Not_Alone
 [yourenotalone-itch]: https://dustinschimel.itch.io/youre-not-alone
