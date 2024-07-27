@@ -12,7 +12,7 @@ Dream Planet was developed by a team of six for a semester-long class at our sch
 
 **Installation** 
 
-You can play the game right below this text or on our [Itch][dreamplanet-itch] page. If you play on this website, please be aware that the <b>screen size is smaller than intended</b>, so things may look a little off (there is a <b>fullscreen button in the bottom right</b> to help too). <b>If the game is laggy</b>, make sure to <b>enable hardware acceleration</b> in your browser settings. The downloadable version is the preferred version to play on, but the web version is completely serviceable on it's own.
+You can play the game right below this text or on our [Itch][dreamplanet-itch] page. If you play on this website, please be aware that the <b>screen size is smaller than intended</b>, so things may look a little off (there is a <b>fullscreen button in the bottom right</b> to make it normal). <b>If the game is laggy</b>, make sure to <b>enable hardware acceleration</b> in your browser settings. The downloadable version is the preferred version to play on, but the web version is completely serviceable on it's own.
 
 <center><iframe frameborder="0" src="https://itch.io/embed-upload/11022733?color=c2dcfe" allowfullscreen="" width="790" height="550"><a href="https://hunt7721.itch.io/dream-planet">Play Dream Planet on itch.io</a></iframe></center>
 
