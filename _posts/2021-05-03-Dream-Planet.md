@@ -4,7 +4,7 @@ title:  "Dream Planet"
 date:   2021-05-03 0:0:0
 categories: ["complete"]
 ---
-Play on a magical, dream-like planet, exploring far-off lands and interacting with intriguing creatures! Be careful—some may be dangerous. Your goal is to find the missing pieces of your broken rocket ship to get off the planet and head home. Can you find them all?
+Play on a magical, dream-like planet, exploring far-off lands and interacting with intriguing creatures! Be careful though—some may be dangerous. Your goal is to find the missing pieces of your broken rocket ship to get off the planet and head home. Can you find them all?
 
 <center><iframe width="642" height="362" src="https://www.youtube-nocookie.com/embed/RTaO13VMaoA?si=kheLmEUKG1p8wni_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
