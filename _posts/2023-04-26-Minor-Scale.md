@@ -30,9 +30,10 @@ I created our main menu, pause menus, and the in-game UI. I tried to make them a
 
 **Installation** 
 
-You can play the game by following these links to [Steam][ms-steam] or [Itch][ms-itch]. You can also use the widgets below.
+You can play the game by following these links to [Steam][ms-steam] or [Itch][ms-itch]. You can also use the widgets below. test
 
 <center><iframe src="https://store.steampowered.com/widget/2376030/" frameborder="0" width="646" height="190"></iframe></center>
+
 <center><iframe frameborder="0" src="https://itch.io/embed/1948909?bg_color=dbdbeb&amp;fg_color=222222&amp;link_color=6d75f9&amp;border_color=00b58f" width="646" height="167"><a href="https://minor-scale-dev.itch.io/minor-scale">Minor Scale by Keyboard Critter Co, CosmicQuail, Dustin Schimel, mmorg00, wenylli, Viktor the Great</a></iframe></center>
 
 **Team** 
