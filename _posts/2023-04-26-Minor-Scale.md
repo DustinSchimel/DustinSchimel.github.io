@@ -32,6 +32,8 @@ I created our main menu, pause menus, and the in-game UI. I tried to make them a
 
 You can play the game on [Steam][ms-steam] or [Itch][ms-itch].
 
+https://store.steampowered.com/app/2376030/Minor_Scale/
+
 **Team** 
 - Ao Tan - 2D Artist
 - Bryan Nguyen - Engineer
