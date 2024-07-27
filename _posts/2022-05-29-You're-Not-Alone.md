@@ -24,10 +24,6 @@ You can play the game right below this text or on our [Itch][yourenotalone-itch]
 
 Once the game is loaded, click inside the player in order to focus your controls on the game. Hit <b>Enter</b> to start the game.
 
-<div style="height:10px;font-size:1px;">&nbsp;</div>
-
-<center><iframe frameborder="0" src="https://itch.io/embed/1645602?bg_color=e3e3e3&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=757575" width="552" height="167"><a href="https://dustinschimel.itch.io/youre-not-alone">You're Not Alone by Dustin Schimel</a></iframe></center>
-
 **Team** 
 - Eric Romero - Artist
 - Erickson Nguyen - Artist
