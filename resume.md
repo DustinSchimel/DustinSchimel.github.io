@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-<span style="float: right; "><a href="{{ '/assets/DMS_Resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/DustinSchimel_Resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 ### EDUCATION
