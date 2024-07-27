@@ -12,7 +12,9 @@ This game was made in two days for our game development club’s game jam. Altho
 
 **Installation** 
 
-Download the zip on [Itch][swordfall-itch] or [GitHub][swordfall-git]. Once the zip is extracted, launch the SwordFall.exe to start the game.
+You can play the game by following these links to our [Itch][swordfall-itch] or [GitHub][swordfall-git]. You can also use the widget below.
+
+<center><iframe frameborder="0" src="https://itch.io/embed/1203521" width="552" height="167"><a href="https://the-three-vs.itch.io/swordfall">SwordFall by Benjamin Sehmel, elaineTanaka, Dustin Schimel, RealCrazyMage, ArkeinSin</a></iframe></center>
 
 **Instructions** 
 
