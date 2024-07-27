@@ -8,7 +8,7 @@ Shrine of Transmutation is a mod for the game [Risk of Rain 2][ror2-steam]. This
 
 <center><iframe width="642" height="362" src="https://www.youtube-nocookie.com/embed/u7u24xkHwoE?si=E-GWD07gtdfizGua" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-Risk of Rain 2 is one of my favorite games and being able to make a mod for it was really fun and taught me a lot! I gained a lot of experience working with APIs that I'm unfamiliar with and expanding on projects/games that I didn't make.
+Risk of Rain 2 is one of my favorite games, and being able to make a mod for it was really fun and taught me a lot! I gained a lot of experience working with APIs that I'm unfamiliar with and expanding on projects/games that I didn't make.
 
 **Installation** 
 
