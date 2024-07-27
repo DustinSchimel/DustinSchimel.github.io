@@ -8,7 +8,7 @@ Minor Scale was my very first large-scale team game, which took place over the c
 
 <center><iframe width="642" height="362" src="https://www.youtube-nocookie.com/embed/gT3EOulVUow?si=XvPZxlDXvWLT-nsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-This was my first time using Unreal Engine and Perforce. My main tasks during the project were related to enemy types, enemy waves, rebindable controls and UI.
+This was my first time using Unreal Engine and Perforce. My main tasks during the project were related to enemy types, enemy waves, rebindable controls, and UI.
 
 ### Enemy types
 All of the enemies are children of a parent class, with slight variations added to account for their stats or special abilities. These stats are taken from a data table that the enemy designers can easily change and adjust. The enemies follow a simple spline that can be created by the level designers. They have methods for things like taking damage, taking damage over time, being slowed, and more, which the tower creation team can utilize when designing their types of towers. Below is a picture of enemies moving down a simple spline.
