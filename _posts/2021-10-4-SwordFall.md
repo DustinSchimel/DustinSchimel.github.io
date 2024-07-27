@@ -4,11 +4,11 @@ title:  "SwordFall"
 date:   2021-10-4 0:0:0
 categories: ["complete"]
 ---
-Fall endlessly and use your sword to avoid taking damage! 
+Fall endlessly and use your sword to avoid taking damage in this high-score-based endless falling game. Try to stay alive while parrying off spikes with your sword, which gives you a boost upward. You must maneuver around spike-covered platforms and toxic mushrooms to survive.
 
 <center><iframe width="642" height="362" src="https://www.youtube-nocookie.com/embed/Fk654ouxluU?si=YAig2YR2-bTUN3mq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-SwordFall is a simple, high-score-based endless falling game where you try to stay alive while using your sword to parry off spikes, which gives you a boost upward. You must maneuver around spike-covered platforms and toxic mushrooms to survive. This game was made in two days for our game development club’s game jam. Although I wish we had more time to work on it, I’m happy with the result we achieved despite the time constraints. During this project, most of us worked together on the engineering team, so I had the opportunity to work on all aspects of the game, including the physics, sounds, animations, dynamic foreground, UI, and dynamic platforms.
+This game was made in two days for our game development club’s game jam. Although I wish we had more time to work on it, I’m happy with the result we achieved despite the time constraints. During this project, most of us worked together on the engineering team, so I had the opportunity to work on all aspects of the game, including the physics, sounds, animations, dynamic foreground, UI, and dynamic platforms.
 
 **Installation** 
 
