@@ -8,11 +8,11 @@ PROJECT: Exploding Barnacle is the codename for a VR game that lets the player e
 
 <center><iframe width="642" height="362" src="https://www.youtube-nocookie.com/embed/MCjBrkwHUso?si=t9M0YPZxi7DLcRNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-This game was developed by a group of 4 students over a span of 11 weeks for a VR class. We were tasked with creating a VR project using Unity and we chose to make a game since most of us want to make games in the future. This was my first time developing a VR game and I learned a great deal about VR development as a result. My main focuses on the project were the VR controls, spear mechanics, and the rope mechanics within the game. 
+This game was developed by a group of four students over a span of eleven weeks for a VR class. We were tasked with creating a VR project using Unity, and we chose to make a game since most of us want to make games in the future. This was my first time developing a VR game, and I learned a great deal about VR development as a result. My main focuses on the project were the VR controls, spear mechanics, and the rope mechanics within the game.
 
 **Installation** 
 
-There is no downloadable build available, but there is a video included above of it being played, and if you really want to build it the code is available on [GitHub][expbarn-git].
+There is no downloadable build available, but there is a video included above of it being played. If you really want to build it, the code is available on [GitHub][expbarn-git] as well.
 
 **Team** 
 - Erickson Nguyen - Engineer
