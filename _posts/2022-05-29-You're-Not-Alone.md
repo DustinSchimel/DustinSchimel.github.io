@@ -16,9 +16,9 @@ You’re Not Alone tackles one of many different backgrounds that people may exp
 
 **Installation** 
 
-You can play the game right below this text or on our [Itch][yourenotalone-itch] page. Once it's loaded, just hit the <b>Play</b> button to start the game. If the game is laggy, make sure to enable hardware acceleration in your browser settings.
+You can play the game right below this text or on our [Itch][yourenotalone-itch] page. Once it's loaded, just hit the <b>Play</b> button to start the game. If the game is laggy, make sure to enable hardware acceleration in your browser settings. If the game is too small, there is a fullscreen button in the bottom right of the player.
 
-<center><iframe frameborder="0" src="https://itch.io/embed-upload/7078899?color=535353" allowfullscreen="" width="790" height="500"><a href="https://dustinschimel.itch.io/youre-not-alone">Play You're Not Alone on itch.io</a></iframe></center>
+<center><iframe frameborder="0" src="https://itch.io/embed-upload/7078899?color=535353" allowfullscreen="" width="790" height="550"><a href="https://dustinschimel.itch.io/youre-not-alone">Play You're Not Alone on itch.io</a></iframe></center>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
